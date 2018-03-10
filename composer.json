@@ -53,8 +53,5 @@
         "preferred-install": "dist",
         "sort-packages": true,
         "optimize-autoloader": true
-    },
-    "phpcompanion": {
-        "project_path": "C:\\Users\\tabooelf\\Code\\Laravel\\",
     }
 }
